@@ -82,48 +82,48 @@
       }
     ],
     "enableBouquet": true,
-    "enableMemories": true,
-    "memories": {
-      "title": "Những ngày mình bên nhau",
-      "buttonLabel": "Miền ký ức",
-      "photos": [
-        {
-          "id": "32f2af3e-0ef5-45e4-99e7-05fd83bcf057",
-          "image": "https://github.com/dendo3353-eng/vuon-plus/blob/main/dulieuvuonhoa/ky-uc/ky-uc-01.jpg",
-          "width": 735,
-          "height": 555,
-          "alt": ""
-        },
-        {
-          "id": "00c671e7-c4f3-47e8-bdcd-fe1e7d81e72d",
-          "image": "https://github.com/dendo3353-eng/vuon-plus/blob/main/dulieuvuonhoa/ky-uc/ky-uc-02.jpg",
-          "width": 736,
-          "height": 552,
-          "alt": ""
-        },
-        {
-          "id": "bcd95b62-3024-4919-8bdc-bcc554b50b83",
-          "image": "https://github.com/dendo3353-eng/vuon-plus/blob/main/dulieuvuonhoa/ky-uc/ky-uc-03.jpg",
-          "width": 735,
-          "height": 1043,
-          "alt": ""
-        },
-        {
-          "id": "615cdea7-bf9a-4668-b83a-12a938c35192",
-          "image": "https://github.com/dendo3353-eng/vuon-plus/blob/main/dulieuvuonhoa/ky-uc/ky-uc-04.jpg",
-          "width": 735,
-          "height": 501,
-          "alt": ""
-        },
-        {
-          "id": "dfc43424-9147-4c6d-a946-226f92354d9b",
-          "image": "https://github.com/dendo3353-eng/vuon-plus/blob/main/dulieuvuonhoa/ky-uc/ky-uc-05.jpg",
-          "width": 675,
-          "height": 1200,
-          "alt": ""
-        }
-      ]
+   "enableMemories": true,
+"memories": {
+  "title": "Những ngày mình bên nhau",
+  "buttonLabel": "Miền ký ức",
+  "photos": [
+    {
+      "id": "32f2af3e-0ef5-45e4-99e7-05fd83bcf057",
+      "image": "https://dendo3353-eng.github.io/vuon-plus/dulieuvuonhoa/ky-uc/ky-uc-01.jpg",
+      "width": 735,
+      "height": 555,
+      "alt": "Kỷ niệm 01"
     },
+    {
+      "id": "00c671e7-c4f3-47e8-bdcd-fe1e7d81e72d",
+      "image": "https://dendo3353-eng.github.io/vuon-plus/dulieuvuonhoa/ky-uc/ky-uc-02.jpg",
+      "width": 736,
+      "height": 552,
+      "alt": "Kỷ niệm 02"
+    },
+    {
+      "id": "bcd95b62-3024-4919-8bdc-bcc554b50b83",
+      "image": "https://dendo3353-eng.github.io/vuon-plus/dulieuvuonhoa/ky-uc/ky-uc-03.jpg",
+      "width": 735,
+      "height": 1043,
+      "alt": "Kỷ niệm 03"
+    },
+    {
+      "id": "615cdea7-bf9a-4668-b83a-12a938c35192",
+      "image": "https://dendo3353-eng.github.io/vuon-plus/dulieuvuonhoa/ky-uc/ky-uc-04.jpg",
+      "width": 735,
+      "height": 501,
+      "alt": "Kỷ niệm 04"
+    },
+    {
+      "id": "dfc43424-9147-4c6d-a946-226f92354d9b",
+      "image": "https://dendo3353-eng.github.io/vuon-plus/dulieuvuonhoa/ky-uc/ky-uc-05.jpg",
+      "width": 675,
+      "height": 1200,
+      "alt": "Kỷ niệm 05"
+    }
+  ]
+}
     "enableLetter": true,
     "letter": {
       "title": "Gửi tới eiu của anh",
