@@ -82,7 +82,7 @@
       }
     ],
     "enableBouquet": true,
-    "enableMemories": false,
+    "enableMemories": true,
     "memories": {
       "title": "Những ngày mình bên nhau",
       "buttonLabel": "Miền ký ức",
