@@ -135,7 +135,7 @@
       "envelopeLine": "Một lá thư dành riêng cho eiu",
       "buttonLabel": "Lá thư"
     },
-    "bgMusic": "https://raw.githubusercontent.com/dendo3353-eng/testhoa/main/dulieuvuonhoa/Em Xinh.mp3",
+    "bgMusic": "./dulieuvuonhoa/Em Xinh.mp3",
     "expiresAt": "2027-10-15T20:32:21.781Z",
     "createdAt": "2026-10-15T20:32:20.998Z",
     "showWatermark": false
